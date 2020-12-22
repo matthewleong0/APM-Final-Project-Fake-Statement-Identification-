@@ -6,3 +6,4 @@ We aimed to classify statements made by politicians and others sourced from Poli
 
 Word2vec pre-trained vectors can be found at: https://code.google.com/archive/p/word2vec/
 
+Our related article to this project can be found at: https://anqilou.medium.com/fake-statements-identification-ccede669e919
